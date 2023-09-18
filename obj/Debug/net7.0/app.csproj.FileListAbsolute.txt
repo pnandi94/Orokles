@@ -1,0 +1,14 @@
+Z:\PN\tanulás\Óbudai - kibermester\app\bin\Debug\net7.0\app.exe
+Z:\PN\tanulás\Óbudai - kibermester\app\bin\Debug\net7.0\app.deps.json
+Z:\PN\tanulás\Óbudai - kibermester\app\bin\Debug\net7.0\app.runtimeconfig.json
+Z:\PN\tanulás\Óbudai - kibermester\app\bin\Debug\net7.0\app.dll
+Z:\PN\tanulás\Óbudai - kibermester\app\bin\Debug\net7.0\app.pdb
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\app.dll
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\refint\app.dll
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\app.pdb
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+Z:\PN\tanulás\Óbudai - kibermester\app\obj\Debug\net7.0\ref\app.dll
